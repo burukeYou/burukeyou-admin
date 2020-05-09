@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "关注用户",
-  "usingComponents": {
-    "user-card": "/bkcomponents/user-card"
-  }
-}

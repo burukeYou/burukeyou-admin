@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "专栏主页",
-  "usingComponents": {
-    "article-card-mini": "/bkcomponents/articleCard-mini"
-  }
-}

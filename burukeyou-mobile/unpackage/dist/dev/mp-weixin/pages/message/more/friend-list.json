@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "好友列表",
-  "usingComponents": {
-    "uni-indexed-list": "/components/uni-indexed-list/uni-indexed-list"
-  }
-}

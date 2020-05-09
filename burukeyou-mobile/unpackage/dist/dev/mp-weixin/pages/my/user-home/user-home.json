@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "个人主页",
-  "usingComponents": {
-    "uni-list-item": "/components/uni-list-item/uni-list-item",
-    "favorites": "/pages/my/user-home/favorites",
-    "bk-tabs": "/bkcomponents/bk-tabs"
-  }
-}
