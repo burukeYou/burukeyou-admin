@@ -4,6 +4,8 @@ import menu from "./menu"
 import topic from "./topic"
 import label from "./label"
 import channel from "./channel"
+import article from "./article"
+import notification from "./Notification"
 
 
 export default {
@@ -12,5 +14,7 @@ export default {
   menu,
   topic,
   label,
-  channel
+  channel,
+  article,
+  notification
 }
